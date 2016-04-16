@@ -4,5 +4,5 @@ Creates a vagrant setup with a single-node kubernetes cluster based on http://ku
 
 ## Install
 
-% vagrant up --provision
+    % vagrant up --provision
 
